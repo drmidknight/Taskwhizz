@@ -5,7 +5,7 @@ const App = () => {
 
   return (
     <div className="app">
-     <ListHeader listName={'Holiday tick list'}/>     
+     <ListHeader listName={'🌴Holiday tick list'}/>     
     </div>
   )
 }
